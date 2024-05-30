@@ -1,0 +1,1165 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 1,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "YooContent",
+    "PackageVersion": "2024-05-29-1128",
+    "AssetList": [
+        {
+            "Address": "Enter",
+            "AssetPath": "Assets/YooContent/Scenes/Enter.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "Main",
+            "AssetPath": "Assets/YooContent/Scenes/Main.unity",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "BGM_Pkm_City1",
+            "AssetPath": "Assets/YooContent/Audio/BGM/BGM_Pkm_City1.mp3",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "Ui_Cick",
+            "AssetPath": "Assets/YooContent/Audio/SE/Ui_Cick.mp3",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "1001_SourceHanSansSC-Medium_Ogray",
+            "AssetPath": "Assets/YooContent/Font/cn/1001_SourceHanSansSC-Medium_Ogray.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1002_SourceHanSansSC-Medium_Ocyan",
+            "AssetPath": "Assets/YooContent/Font/cn/1002_SourceHanSansSC-Medium_Ocyan.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1003_SourceHanSansSC-Medium_Ugray",
+            "AssetPath": "Assets/YooContent/Font/cn/1003_SourceHanSansSC-Medium_Ugray.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1003_SourceHanSansSC-Medium_Ugray_Overlay",
+            "AssetPath": "Assets/YooContent/Font/cn/1003_SourceHanSansSC-Medium_Ugray_Overlay.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1004_SourceHanSansSC-Medium_Ggreen",
+            "AssetPath": "Assets/YooContent/Font/cn/1004_SourceHanSansSC-Medium_Ggreen.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1005_SourceHanSansSC-Medium_Owhite",
+            "AssetPath": "Assets/YooContent/Font/cn/1005_SourceHanSansSC-Medium_Owhite.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1006_SourceHanSansSC-Medium_Ored",
+            "AssetPath": "Assets/YooContent/Font/cn/1006_SourceHanSansSC-Medium_Ored.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1007_SourceHanSansSC-Medium_Oorange_alpha_0.5",
+            "AssetPath": "Assets/YooContent/Font/cn/1007_SourceHanSansSC-Medium_Oorange_alpha_0.5.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1008_SourceHanSansSC-Medium_Oblue",
+            "AssetPath": "Assets/YooContent/Font/cn/1008_SourceHanSansSC-Medium_Oblue.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1009_SourceHanSansSC-Medium_Oblue_alpha_0.5",
+            "AssetPath": "Assets/YooContent/Font/cn/1009_SourceHanSansSC-Medium_Oblue_alpha_0.5.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1010_SourceHanSansSC-Medium_Oblack_alpha_0.1",
+            "AssetPath": "Assets/YooContent/Font/cn/1010_SourceHanSansSC-Medium_Oblack_alpha_0.1.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1011_SourceHanSansSC-Medium_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/1011_SourceHanSansSC-Medium_Gblue.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1011_SourceHanSansSC-Medium_Gblue_Overlay",
+            "AssetPath": "Assets/YooContent/Font/cn/1011_SourceHanSansSC-Medium_Gblue_Overlay.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1012_SourceHanSansSC-Medium_Gpurple",
+            "AssetPath": "Assets/YooContent/Font/cn/1012_SourceHanSansSC-Medium_Gpurple.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1013_SourceHanSansSC-Medium_Ob05437_alpha_0.5",
+            "AssetPath": "Assets/YooContent/Font/cn/1013_SourceHanSansSC-Medium_Ob05437_alpha_0.5.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1015_SourceHanSansSC-Medium_Gred",
+            "AssetPath": "Assets/YooContent/Font/cn/1015_SourceHanSansSC-Medium_Gred.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1016_SourceHanSansSC-Medium_Odarkgrey_Gorange",
+            "AssetPath": "Assets/YooContent/Font/cn/1016_SourceHanSansSC-Medium_Odarkgrey_Gorange.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1017_SourceHanSansSC-Medium_Odarkgrey_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/1017_SourceHanSansSC-Medium_Odarkgrey_Gblue.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1018_SourceHanSansSC-Medium_Ugray_Gred",
+            "AssetPath": "Assets/YooContent/Font/cn/1018_SourceHanSansSC-Medium_Ugray_Gred.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1019_SourceHanSansSC-Medium_Soft",
+            "AssetPath": "Assets/YooContent/Font/cn/1019_SourceHanSansSC-Medium_Soft.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1103_SourceHanSansSC-Medium_Owhite_Bold",
+            "AssetPath": "Assets/YooContent/Font/cn/1103_SourceHanSansSC-Medium_Owhite_Bold.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1104_SourceHanSansSC-Medium_Oblack_alpha_0.5_Bold",
+            "AssetPath": "Assets/YooContent/Font/cn/1104_SourceHanSansSC-Medium_Oblack_alpha_0.5_Bold.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1105_SourceHanSansSC-Medium_Oclear_Bold",
+            "AssetPath": "Assets/YooContent/Font/cn/1105_SourceHanSansSC-Medium_Oclear_Bold.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1201_SourceHanSansSC-Medium_ColorDodge_3D",
+            "AssetPath": "Assets/YooContent/Font/cn/1201_SourceHanSansSC-Medium_ColorDodge_3D.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1301_SourceHanSansSC-Medium_Gwhite",
+            "AssetPath": "Assets/YooContent/Font/cn/1301_SourceHanSansSC-Medium_Gwhite.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1302_SourceHanSansSC-Medium_Ggreen",
+            "AssetPath": "Assets/YooContent/Font/cn/1302_SourceHanSansSC-Medium_Ggreen.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1303_SourceHanSansSC-Medium_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/1303_SourceHanSansSC-Medium_Gblue.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1304_SourceHanSansSC-Medium_Gpurple",
+            "AssetPath": "Assets/YooContent/Font/cn/1304_SourceHanSansSC-Medium_Gpurple.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1305_SourceHanSansSC-Medium_Gorange",
+            "AssetPath": "Assets/YooContent/Font/cn/1305_SourceHanSansSC-Medium_Gorange.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1306_SourceHanSansSC-Medium_Gred",
+            "AssetPath": "Assets/YooContent/Font/cn/1306_SourceHanSansSC-Medium_Gred.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1307_SourceHanSansSC-Medium_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/1307_SourceHanSansSC-Medium_Gblue.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1308_SourceHanSansSC-Medium_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/1308_SourceHanSansSC-Medium_Gblue.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1309_SourceHanSansSC-Medium_Purple",
+            "AssetPath": "Assets/YooContent/Font/cn/1309_SourceHanSansSC-Medium_Purple.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1310_SourceHanSansSC-Medium_Tip",
+            "AssetPath": "Assets/YooContent/Font/cn/1310_SourceHanSansSC-Medium_Tip.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "1401_SourceHanSansSC-Medium_SDF_Hidden",
+            "AssetPath": "Assets/YooContent/Font/cn/1401_SourceHanSansSC-Medium_SDF_Hidden.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2001_BIGNOODLETOO SDF_Green",
+            "AssetPath": "Assets/YooContent/Font/cn/2001_BIGNOODLETOO SDF_Green.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2001_BIGNOODLETOO SDF_Ogray",
+            "AssetPath": "Assets/YooContent/Font/cn/2001_BIGNOODLETOO SDF_Ogray.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2001_BIGNOODLETOO SDF_Ogreen",
+            "AssetPath": "Assets/YooContent/Font/cn/2001_BIGNOODLETOO SDF_Ogreen.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2003_BIGNOODLETOO SDF_Ugray",
+            "AssetPath": "Assets/YooContent/Font/cn/2003_BIGNOODLETOO SDF_Ugray.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2003_BIGNOODLETOO SDF_Ugray_Overlay",
+            "AssetPath": "Assets/YooContent/Font/cn/2003_BIGNOODLETOO SDF_Ugray_Overlay.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2004_BIGNOODLETOO SDF_Ggreen",
+            "AssetPath": "Assets/YooContent/Font/cn/2004_BIGNOODLETOO SDF_Ggreen.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2011_BIGNOODLETOO SDF_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/2011_BIGNOODLETOO SDF_Gblue.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2011_BIGNOODLETOO SDF_Gblue_Overlay",
+            "AssetPath": "Assets/YooContent/Font/cn/2011_BIGNOODLETOO SDF_Gblue_Overlay.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2012_BIGNOODLETOO SDF_Gpurple",
+            "AssetPath": "Assets/YooContent/Font/cn/2012_BIGNOODLETOO SDF_Gpurple.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2013_BIGNOODLETOO SDF_Gorange",
+            "AssetPath": "Assets/YooContent/Font/cn/2013_BIGNOODLETOO SDF_Gorange.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2014_BIGNOODLETOO SDF_Gorange",
+            "AssetPath": "Assets/YooContent/Font/cn/2014_BIGNOODLETOO SDF_Gorange.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2019_BIGNOODLETOO SDF_Gsilver",
+            "AssetPath": "Assets/YooContent/Font/cn/2019_BIGNOODLETOO SDF_Gsilver.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2019_BIGNOODLETOO SDF_Gsilver_Glitch",
+            "AssetPath": "Assets/YooContent/Font/cn/2019_BIGNOODLETOO SDF_Gsilver_Glitch.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2020_BIGNOODLETOO SDF_Gcyan",
+            "AssetPath": "Assets/YooContent/Font/cn/2020_BIGNOODLETOO SDF_Gcyan.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2030_BIGNOODLETOO SDF_Hidden",
+            "AssetPath": "Assets/YooContent/Font/cn/2030_BIGNOODLETOO SDF_Hidden.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2101_BIGNOODLETOO SDF_Owhite",
+            "AssetPath": "Assets/YooContent/Font/cn/2101_BIGNOODLETOO SDF_Owhite.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2103_BIGNOODLETOO SDF_Owhite_Bold",
+            "AssetPath": "Assets/YooContent/Font/cn/2103_BIGNOODLETOO SDF_Owhite_Bold.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2104_BIGNOODLETOO SDF_Oblack_alpha_0.5_Bold",
+            "AssetPath": "Assets/YooContent/Font/cn/2104_BIGNOODLETOO SDF_Oblack_alpha_0.5_Bold.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2105_BIGNOODLETOO SDF_Oclear_Bold",
+            "AssetPath": "Assets/YooContent/Font/cn/2105_BIGNOODLETOO SDF_Oclear_Bold.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2301_BIGNOODLETOO SDF_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/2301_BIGNOODLETOO SDF_Gblue.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "2302_BIGNOODLETOO SDF_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/2302_BIGNOODLETOO SDF_Gblue.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3001_icomoon SDF_Ogray",
+            "AssetPath": "Assets/YooContent/Font/cn/3001_icomoon SDF_Ogray.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3001_icomoon SDF_Ogray_Overlay",
+            "AssetPath": "Assets/YooContent/Font/cn/3001_icomoon SDF_Ogray_Overlay.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3003_icomoon SDF_Ugray",
+            "AssetPath": "Assets/YooContent/Font/cn/3003_icomoon SDF_Ugray.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3003_icomoon SDF_Ugray_Overlay",
+            "AssetPath": "Assets/YooContent/Font/cn/3003_icomoon SDF_Ugray_Overlay.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3010_icomoon SDF_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/3010_icomoon SDF_Gblue.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3011_icomoon SDF_Gblue_Overlay",
+            "AssetPath": "Assets/YooContent/Font/cn/3011_icomoon SDF_Gblue_Overlay.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3014_icomoon SDF_Gyellow",
+            "AssetPath": "Assets/YooContent/Font/cn/3014_icomoon SDF_Gyellow.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3015_icomoon SDF_Gred",
+            "AssetPath": "Assets/YooContent/Font/cn/3015_icomoon SDF_Gred.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3018_icomoon SDF_Ugray_Gred",
+            "AssetPath": "Assets/YooContent/Font/cn/3018_icomoon SDF_Ugray_Gred.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3101_icomoon SDF_Odarkblue_alpha_0.5",
+            "AssetPath": "Assets/YooContent/Font/cn/3101_icomoon SDF_Odarkblue_alpha_0.5.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3102_icomoon SDF_Owhite_alpha_0.3",
+            "AssetPath": "Assets/YooContent/Font/cn/3102_icomoon SDF_Owhite_alpha_0.3.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3103_icomoon SDF_Obule_alpha_0.1",
+            "AssetPath": "Assets/YooContent/Font/cn/3103_icomoon SDF_Obule_alpha_0.1.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3104_icomoon SDF_Ored_alpha_0.1",
+            "AssetPath": "Assets/YooContent/Font/cn/3104_icomoon SDF_Ored_alpha_0.1.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3201_icomoon SDF_Hidden",
+            "AssetPath": "Assets/YooContent/Font/cn/3201_icomoon SDF_Hidden.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3301_icomoon SDF_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/3301_icomoon SDF_Gblue.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3302_icomoon SDF_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/3302_icomoon SDF_Gblue.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3305_icomoon SDF_Gyellow_Light",
+            "AssetPath": "Assets/YooContent/Font/cn/3305_icomoon SDF_Gyellow_Light.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "3308_icomoon SDF_Blue",
+            "AssetPath": "Assets/YooContent/Font/cn/3308_icomoon SDF_Blue.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "4011_MFZaoZiGongFang_Noncommercial-Regular SDF_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/4011_MFZaoZiGongFang_Noncommercial-Regular SDF_Gblue.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "4012_MFZaoZiGongFang_Noncommercial-Regular SDF_Gpurple",
+            "AssetPath": "Assets/YooContent/Font/cn/4012_MFZaoZiGongFang_Noncommercial-Regular SDF_Gpurple.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "big-noodle-too.woff",
+            "AssetPath": "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "BIGNOODLETOO SDF Material add",
+            "AssetPath": "Assets/YooContent/Font/cn/BIGNOODLETOO SDF Material add.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "BIGNOODLETOO SDF",
+            "AssetPath": "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "BIGNOODLETOO SDF_overlay",
+            "AssetPath": "Assets/YooContent/Font/cn/BIGNOODLETOO SDF_overlay.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "font",
+            "AssetPath": "Assets/YooContent/Font/cn/font.ttc",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "fontbd",
+            "AssetPath": "Assets/YooContent/Font/cn/fontbd.ttc",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "FZRuiZYJW_Cu SDF",
+            "AssetPath": "Assets/YooContent/Font/cn/FZRuiZYJW_Cu SDF.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "FZYanSJW_Cu_New SDF",
+            "AssetPath": "Assets/YooContent/Font/cn/FZYanSJW_Cu_New SDF.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "IcoEmoji SDF",
+            "AssetPath": "Assets/YooContent/Font/cn/IcoEmoji SDF.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "IcoEmoji SDF_PNG",
+            "AssetPath": "Assets/YooContent/Font/cn/IcoEmoji SDF_PNG.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "icomoon SDF",
+            "AssetPath": "Assets/YooContent/Font/cn/icomoon SDF.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "icomoon SDF1_ColorDodge",
+            "AssetPath": "Assets/YooContent/Font/cn/icomoon SDF1_ColorDodge.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "icomoon SDF1_Orange",
+            "AssetPath": "Assets/YooContent/Font/cn/icomoon SDF1_Orange.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "icomoon SDF1_overlay",
+            "AssetPath": "Assets/YooContent/Font/cn/icomoon SDF1_overlay.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "icomoon SDF_Png",
+            "AssetPath": "Assets/YooContent/Font/cn/icomoon SDF_Png.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "icomoon",
+            "AssetPath": "Assets/YooContent/Font/cn/icomoon.ttf",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "MFZaoZiGongFang_Noncommercial-Light Static",
+            "AssetPath": "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Light Static.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "MFZaoZiGongFang_Noncommercial-Regular SDF-Fallback",
+            "AssetPath": "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Regular SDF-Fallback.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "MFZaoZiGongFang_Noncommercial-Regular SDF",
+            "AssetPath": "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Regular SDF.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "MFZaoZiGongFang_Noncommercial-Regular SDF_PNG",
+            "AssetPath": "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Regular SDF_PNG.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "MFZaoZiGongFang_Noncommercial-Regular",
+            "AssetPath": "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Regular.otf",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "NotoEmoji-Bold",
+            "AssetPath": "Assets/YooContent/Font/cn/NotoEmoji-Bold.ttf",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "OCRAEXT_0",
+            "AssetPath": "Assets/YooContent/Font/cn/OCRAEXT_0.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "OCRAEXT_0_TTF",
+            "AssetPath": "Assets/YooContent/Font/cn/OCRAEXT_0_TTF.ttf",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "SourceHanSansSC-Medium SDF-Fallback",
+            "AssetPath": "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF-Fallback.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "SourceHanSansSC-Medium SDF",
+            "AssetPath": "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF.asset",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "SourceHanSansSC-Medium SDF_PNG",
+            "AssetPath": "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "SourceHanSansSC-Medium SDF_SubtitleEffect",
+            "AssetPath": "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_SubtitleEffect.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "SourceHanSansSC-Medium SDF_SubtitleEffect_2",
+            "AssetPath": "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_SubtitleEffect_2.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "SourceHanSansSC-Medium SDF_SubtitleEffectDisable",
+            "AssetPath": "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_SubtitleEffectDisable.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "SourceHanSansSC-Medium SDF_SubtitleEffectEnabled",
+            "AssetPath": "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_SubtitleEffectEnabled.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "SourceHanSansSC-Medium",
+            "AssetPath": "Assets/YooContent/Font/cn/SourceHanSansSC-Medium.otf",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "SourceHanSansSC-Medium_SDF_ScanLineJitterAndLineBlock",
+            "AssetPath": "Assets/YooContent/Font/cn/SourceHanSansSC-Medium_SDF_ScanLineJitterAndLineBlock.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "UI_Test1",
+            "AssetPath": "Assets/YooContent/UI/Prefabs/Test/UI_Test1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "UI_Test2",
+            "AssetPath": "Assets/YooContent/UI/Prefabs/Test/UI_Test2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "UI_Test3",
+            "AssetPath": "Assets/YooContent/UI/Prefabs/Test/UI_Test3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "1",
+            "AssetPath": "Assets/YooContent/Atlas/1.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "Test",
+            "AssetPath": "Assets/YooContent/Atlas/Test.spriteatlas",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "CommonSpriteAtlas",
+            "AssetPath": "Assets/YooContent/Sprite/Common/CommonSpriteAtlas.spriteatlas",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "Sprite_Atlas",
+            "AssetPath": "Assets/YooContent/Sprite/Main/Sprite_Atlas.spriteatlas",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "App.dll",
+            "AssetPath": "Assets/YooContent/HyBrid_Dll/HotUpdateDll/App.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7
+        },
+        {
+            "Address": "Framework.dll",
+            "AssetPath": "Assets/YooContent/HyBrid_Dll/HotUpdateDll/Framework.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "Logic.dll",
+            "AssetPath": "Assets/YooContent/HyBrid_Dll/HotUpdateDll/Logic.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        },
+        {
+            "Address": "Lib.dll",
+            "AssetPath": "Assets/YooContent/HyBrid_Dll/MetaDataDll/Lib.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 10
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/YooContent/HyBrid_Dll/MetaDataDll/mscorlib.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 11
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/YooContent/HyBrid_Dll/MetaDataDll/System.Core.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 12
+        },
+        {
+            "Address": "UnityEngine.CoreModule.dll",
+            "AssetPath": "Assets/YooContent/HyBrid_Dll/MetaDataDll/UnityEngine.CoreModule.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 13
+        },
+        {
+            "Address": "YooAsset.dll",
+            "AssetPath": "Assets/YooContent/HyBrid_Dll/MetaDataDll/YooAsset.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14
+        },
+        {
+            "Address": "MetaDataDllToLoad",
+            "AssetPath": "Assets/YooContent/HyBrid_Dll/MetaDataDllToLoad.txt",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 15
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "yoocontent_scenegroup.bundle",
+            "UnityCRC": 2336136255,
+            "FileHash": "df91e3f59a39f29dde6f4eb471759526",
+            "FileCRC": "bf9fac7a",
+            "FileSize": 9073,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                16
+            ]
+        },
+        {
+            "BundleName": "yoocontent_audiogroup.bundle",
+            "UnityCRC": 1276738762,
+            "FileHash": "91523dae7b0e8d88923b518085606cef",
+            "FileCRC": "bbd013a7",
+            "FileSize": 3237835,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "yoocontent_fontgroup.bundle",
+            "UnityCRC": 477067341,
+            "FileHash": "c527e40dae8069024d74b0d18ad35138",
+            "FileCRC": "64c08400",
+            "FileSize": 65404478,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                17
+            ]
+        },
+        {
+            "BundleName": "yoocontent_prefabgroup.bundle",
+            "UnityCRC": 3312462473,
+            "FileHash": "72670abe920096085289e8edd97f9337",
+            "FileCRC": "d7fedef5",
+            "FileSize": 14840,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                4,
+                19,
+                22,
+                21,
+                20,
+                17
+            ]
+        },
+        {
+            "BundleName": "yoocontent_atlasgroup.bundle",
+            "UnityCRC": 47336423,
+            "FileHash": "53d51b79b02e55eb59ae08904d6b871b",
+            "FileCRC": "afabf317",
+            "FileSize": 73231,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_sprite_common.bundle",
+            "UnityCRC": 2751619847,
+            "FileHash": "aa151ddf005aea3abf1b216f87562252",
+            "FileCRC": "2e570ab5",
+            "FileSize": 153350,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                19
+            ]
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_sprite_main.bundle",
+            "UnityCRC": 400908852,
+            "FileHash": "c6e6ded9b039ce05a7ebe90b9f67a239",
+            "FileCRC": "d3b7ff6c",
+            "FileSize": 452148,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                19
+            ]
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_hybrid_dll_hotupdatedll_app_dll_bytes.rawfile",
+            "UnityCRC": 2983279805,
+            "FileHash": "aa9e2ae776ac3adb066b65e5e685102a",
+            "FileCRC": "33c20de4",
+            "FileSize": 7931,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_hybrid_dll_hotupdatedll_framework_dll_bytes.rawfile",
+            "UnityCRC": 45717381,
+            "FileHash": "16ea87b19d58e51f4a4793720b056957",
+            "FileCRC": "2db11731",
+            "FileSize": 23750,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_hybrid_dll_hotupdatedll_logic_dll_bytes.rawfile",
+            "UnityCRC": 412339882,
+            "FileHash": "5bc0fae9e3246ce022c87b89c2dbec09",
+            "FileCRC": "65ae1368",
+            "FileSize": 7669,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_lib_dll_bytes.rawfile",
+            "UnityCRC": 2908084325,
+            "FileHash": "8a1ea5f0c9dc60ee1b962f51845044b4",
+            "FileCRC": "bc85d681",
+            "FileSize": 7225,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_mscorlib_dll_bytes.rawfile",
+            "UnityCRC": 68825315,
+            "FileHash": "ee3d7e9ae75ed80a98a7f8d0b3cb8075",
+            "FileCRC": "58201754",
+            "FileSize": 1017736,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_system_core_dll_bytes.rawfile",
+            "UnityCRC": 257254529,
+            "FileHash": "e5de14ce5cbc8e24b0464cf985862303",
+            "FileCRC": "635021c1",
+            "FileSize": 46328,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_unityengine_coremodule_dll_bytes.rawfile",
+            "UnityCRC": 1268268538,
+            "FileHash": "3eb9dbbd2119a3c557b0be803e2b6a91",
+            "FileCRC": "ad62196f",
+            "FileSize": 212637,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_yooasset_dll_bytes.rawfile",
+            "UnityCRC": 2544987429,
+            "FileHash": "efa9c8ed49560457ef8451a8c5517044",
+            "FileCRC": "a85a18cc",
+            "FileSize": 85925,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadlltoload_txt.rawfile",
+            "UnityCRC": 3786757301,
+            "FileHash": "24d9694e7a30c15809490fe8349007b6",
+            "FileCRC": "bea02416",
+            "FileSize": 1322,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "yoocontent_share_assets_unity-logs-viewer-master_reporter_images.bundle",
+            "UnityCRC": 3450876704,
+            "FileHash": "44df3eaa100c1f747e85b53e8fb137db",
+            "FileCRC": "5c09a1a7",
+            "FileSize": 72345,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "yoocontent_unityshaders.bundle",
+            "UnityCRC": 4165844226,
+            "FileHash": "8ea0265a1c08a4935885888b64e28c34",
+            "FileCRC": "fd5e8bb2",
+            "FileSize": 46591,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "yoocontent_share_packages_com_unity_textmeshpro_editor_resources_gizmos.bundle",
+            "UnityCRC": 2775580791,
+            "FileHash": "973c29b2c59403f25697d2ff974a2111",
+            "FileCRC": "b1829743",
+            "FileSize": 5547,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "yoocontent_share_assets_sprite.bundle",
+            "UnityCRC": 3491211230,
+            "FileHash": "5a3414a890c29c6511868d85a31c87f0",
+            "FileCRC": "a67ea065",
+            "FileSize": 3665,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "yoocontent_share_assets_yoocontent_animationui.bundle",
+            "UnityCRC": 924118647,
+            "FileHash": "5013c58ffc35923655471b313ca258d3",
+            "FileCRC": "3121015c",
+            "FileSize": 10117,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "yoocontent_share_assets_textmesh_pro_resources_fonts_&_materials.bundle",
+            "UnityCRC": 2763024516,
+            "FileHash": "99a576897e00c868f13b1de4bfa39631",
+            "FileCRC": "5caaa68b",
+            "FileSize": 373510,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": [
+                22,
+                17
+            ]
+        },
+        {
+            "BundleName": "yoocontent_share_assets_textmesh_pro_fonts.bundle",
+            "UnityCRC": 1546984402,
+            "FileHash": "a60847ce015f3ce643472accc17c616a",
+            "FileCRC": "cbd7dd3b",
+            "FileSize": 227239,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}

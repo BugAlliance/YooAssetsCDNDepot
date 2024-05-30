@@ -1,0 +1,2089 @@
+{
+    "Summary": {
+        "YooVersion": "2.1.2",
+        "UnityVersion": "2021.3.36f1",
+        "BuildDate": "2024/5/29 18:48:57",
+        "BuildSeconds": 17,
+        "BuildTarget": 13,
+        "BuildMode": 0,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "YooContent",
+        "BuildPackageVersion": "2024-05-29-1128",
+        "UniqueBundleName": true,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "EnableSharePackRule": true,
+        "EncryptionClassName": "YooAsset.Editor.EncryptionNone",
+        "FileNameStyle": 1,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 183,
+        "MainAssetTotalCount": 129,
+        "AllBundleTotalCount": 23,
+        "AllBundleTotalSize": 71494492,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "Enter",
+            "AssetPath": "Assets/YooContent/Scenes/Enter.unity",
+            "AssetGUID": "547fb2421491b164c8b8a47366313813",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_scenegroup.bundle",
+            "MainBundleSize": 9073,
+            "DependAssets": [
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/Save.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/scroller_horizental_thumb.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/scroller_vertical_thumb.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/collapse.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/log_icon.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/scroller_horizental_back.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/date.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/error_icon.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/reporterScrollerSkin.guiskin",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/software.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/fps.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/even_log.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/clear.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/scroller_down_arraw.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/scroller_right_arraw.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/copyAll.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/memory.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/search.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/timer_1.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/selected.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/back.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/button_active.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/bar.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/buildFrom.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/scroller_left_arraw.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/clearOnSceneLoaded.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/warning_icon.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/scroller_vertical_back.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/graphicCard.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/info.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/copy.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/ComputerIcon.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/odd_log.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/UnityIcon.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/scroller_up_arraw.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/user.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/close.png"
+            ]
+        },
+        {
+            "Address": "Main",
+            "AssetPath": "Assets/YooContent/Scenes/Main.unity",
+            "AssetGUID": "9cb973988f8087645ab3982ff045edb5",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_scenegroup.bundle",
+            "MainBundleSize": 9073,
+            "DependAssets": []
+        },
+        {
+            "Address": "BGM_Pkm_City1",
+            "AssetPath": "Assets/YooContent/Audio/BGM/BGM_Pkm_City1.mp3",
+            "AssetGUID": "bea6ed5130573564ba05af5d02d77378",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_audiogroup.bundle",
+            "MainBundleSize": 3237835,
+            "DependAssets": []
+        },
+        {
+            "Address": "Ui_Cick",
+            "AssetPath": "Assets/YooContent/Audio/SE/Ui_Cick.mp3",
+            "AssetGUID": "6e3fb30385f679b449ae06d21c618dd9",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_audiogroup.bundle",
+            "MainBundleSize": 3237835,
+            "DependAssets": []
+        },
+        {
+            "Address": "1001_SourceHanSansSC-Medium_Ogray",
+            "AssetPath": "Assets/YooContent/Font/cn/1001_SourceHanSansSC-Medium_Ogray.mat",
+            "AssetGUID": "6dd06f2436fcd6345a6c7e0f725ca418",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1002_SourceHanSansSC-Medium_Ocyan",
+            "AssetPath": "Assets/YooContent/Font/cn/1002_SourceHanSansSC-Medium_Ocyan.mat",
+            "AssetGUID": "5995121e333c7714d9bb3af0cd21ea0e",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1003_SourceHanSansSC-Medium_Ugray",
+            "AssetPath": "Assets/YooContent/Font/cn/1003_SourceHanSansSC-Medium_Ugray.mat",
+            "AssetGUID": "2130db5aaaec4234c8b69f02b9343ecd",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1003_SourceHanSansSC-Medium_Ugray_Overlay",
+            "AssetPath": "Assets/YooContent/Font/cn/1003_SourceHanSansSC-Medium_Ugray_Overlay.mat",
+            "AssetGUID": "a9d68ae90c43f294fbae4f724b8d9076",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader"
+            ]
+        },
+        {
+            "Address": "1004_SourceHanSansSC-Medium_Ggreen",
+            "AssetPath": "Assets/YooContent/Font/cn/1004_SourceHanSansSC-Medium_Ggreen.mat",
+            "AssetGUID": "3e635de7027c8f84e802be3ed8d16d2f",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1005_SourceHanSansSC-Medium_Owhite",
+            "AssetPath": "Assets/YooContent/Font/cn/1005_SourceHanSansSC-Medium_Owhite.mat",
+            "AssetGUID": "12b160865e7f6f94fb583bddbdd9cc76",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1006_SourceHanSansSC-Medium_Ored",
+            "AssetPath": "Assets/YooContent/Font/cn/1006_SourceHanSansSC-Medium_Ored.mat",
+            "AssetGUID": "4f03595cb4019464dbc06fd3c77e50ef",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1007_SourceHanSansSC-Medium_Oorange_alpha_0.5",
+            "AssetPath": "Assets/YooContent/Font/cn/1007_SourceHanSansSC-Medium_Oorange_alpha_0.5.mat",
+            "AssetGUID": "04c16f8d53ec8354e9ee64aa67792465",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1008_SourceHanSansSC-Medium_Oblue",
+            "AssetPath": "Assets/YooContent/Font/cn/1008_SourceHanSansSC-Medium_Oblue.mat",
+            "AssetGUID": "024be6569cb73ff45b94dec40c80bf52",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1009_SourceHanSansSC-Medium_Oblue_alpha_0.5",
+            "AssetPath": "Assets/YooContent/Font/cn/1009_SourceHanSansSC-Medium_Oblue_alpha_0.5.mat",
+            "AssetGUID": "307dbd8fe2ca5d146bc2fb234133a4c4",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1010_SourceHanSansSC-Medium_Oblack_alpha_0.1",
+            "AssetPath": "Assets/YooContent/Font/cn/1010_SourceHanSansSC-Medium_Oblack_alpha_0.1.mat",
+            "AssetGUID": "aeabca728a6cf5b429427c1f49b8ec6e",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1011_SourceHanSansSC-Medium_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/1011_SourceHanSansSC-Medium_Gblue.mat",
+            "AssetGUID": "5394bff3f041b8545bad2f644d7d79b1",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1011_SourceHanSansSC-Medium_Gblue_Overlay",
+            "AssetPath": "Assets/YooContent/Font/cn/1011_SourceHanSansSC-Medium_Gblue_Overlay.mat",
+            "AssetGUID": "7376233ba2ec0154dbcb64056dacee67",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png"
+            ]
+        },
+        {
+            "Address": "1012_SourceHanSansSC-Medium_Gpurple",
+            "AssetPath": "Assets/YooContent/Font/cn/1012_SourceHanSansSC-Medium_Gpurple.mat",
+            "AssetGUID": "0616d8b8c50b9a74ab2619c85c529847",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png"
+            ]
+        },
+        {
+            "Address": "1013_SourceHanSansSC-Medium_Ob05437_alpha_0.5",
+            "AssetPath": "Assets/YooContent/Font/cn/1013_SourceHanSansSC-Medium_Ob05437_alpha_0.5.mat",
+            "AssetGUID": "b7fb5210f6f197a4495941dc365ca33b",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1015_SourceHanSansSC-Medium_Gred",
+            "AssetPath": "Assets/YooContent/Font/cn/1015_SourceHanSansSC-Medium_Gred.mat",
+            "AssetGUID": "6842f7e3236c98047958679293f896fe",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png"
+            ]
+        },
+        {
+            "Address": "1016_SourceHanSansSC-Medium_Odarkgrey_Gorange",
+            "AssetPath": "Assets/YooContent/Font/cn/1016_SourceHanSansSC-Medium_Odarkgrey_Gorange.mat",
+            "AssetGUID": "4de7f4caf2f84ba429074b9ed3684a8e",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png"
+            ]
+        },
+        {
+            "Address": "1017_SourceHanSansSC-Medium_Odarkgrey_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/1017_SourceHanSansSC-Medium_Odarkgrey_Gblue.mat",
+            "AssetGUID": "8d3edee886c964b4e80ac7015d6cb467",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png"
+            ]
+        },
+        {
+            "Address": "1018_SourceHanSansSC-Medium_Ugray_Gred",
+            "AssetPath": "Assets/YooContent/Font/cn/1018_SourceHanSansSC-Medium_Ugray_Gred.mat",
+            "AssetGUID": "4c15dec296cdbe54d9a3953eeab9d0d4",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png"
+            ]
+        },
+        {
+            "Address": "1019_SourceHanSansSC-Medium_Soft",
+            "AssetPath": "Assets/YooContent/Font/cn/1019_SourceHanSansSC-Medium_Soft.mat",
+            "AssetGUID": "834f099ca3eedaa44b23c3917b14ecd3",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1103_SourceHanSansSC-Medium_Owhite_Bold",
+            "AssetPath": "Assets/YooContent/Font/cn/1103_SourceHanSansSC-Medium_Owhite_Bold.mat",
+            "AssetGUID": "fb4a7dc1d6f935e4c8f40ad11cbc1872",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1104_SourceHanSansSC-Medium_Oblack_alpha_0.5_Bold",
+            "AssetPath": "Assets/YooContent/Font/cn/1104_SourceHanSansSC-Medium_Oblack_alpha_0.5_Bold.mat",
+            "AssetGUID": "52d9c77d4ac265c44a9398a027308e05",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1105_SourceHanSansSC-Medium_Oclear_Bold",
+            "AssetPath": "Assets/YooContent/Font/cn/1105_SourceHanSansSC-Medium_Oclear_Bold.mat",
+            "AssetGUID": "32e175166d8678440aad3f278d8f303c",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1201_SourceHanSansSC-Medium_ColorDodge_3D",
+            "AssetPath": "Assets/YooContent/Font/cn/1201_SourceHanSansSC-Medium_ColorDodge_3D.mat",
+            "AssetGUID": "fcf051e54244fbc4b8dd4793850d19b3",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1301_SourceHanSansSC-Medium_Gwhite",
+            "AssetPath": "Assets/YooContent/Font/cn/1301_SourceHanSansSC-Medium_Gwhite.mat",
+            "AssetGUID": "795da3a65e38f7c40ae6a2f646762991",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1302_SourceHanSansSC-Medium_Ggreen",
+            "AssetPath": "Assets/YooContent/Font/cn/1302_SourceHanSansSC-Medium_Ggreen.mat",
+            "AssetGUID": "81b618f785b0eda489aea39df0608e63",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1303_SourceHanSansSC-Medium_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/1303_SourceHanSansSC-Medium_Gblue.mat",
+            "AssetGUID": "a5d76a088be707d4098075d06fc7ee5b",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1304_SourceHanSansSC-Medium_Gpurple",
+            "AssetPath": "Assets/YooContent/Font/cn/1304_SourceHanSansSC-Medium_Gpurple.mat",
+            "AssetGUID": "0e4f6fdc1605c7c4fa1357c03730e2d8",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1305_SourceHanSansSC-Medium_Gorange",
+            "AssetPath": "Assets/YooContent/Font/cn/1305_SourceHanSansSC-Medium_Gorange.mat",
+            "AssetGUID": "837ad8b92527a394ebe0236a4188d6e8",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1306_SourceHanSansSC-Medium_Gred",
+            "AssetPath": "Assets/YooContent/Font/cn/1306_SourceHanSansSC-Medium_Gred.mat",
+            "AssetGUID": "1b84e8ec87433424790bbf23a72155d9",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1307_SourceHanSansSC-Medium_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/1307_SourceHanSansSC-Medium_Gblue.mat",
+            "AssetGUID": "bcbaf0a28ce42f549924ae847a48906e",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1308_SourceHanSansSC-Medium_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/1308_SourceHanSansSC-Medium_Gblue.mat",
+            "AssetGUID": "e7aea8fba1540b74096a7343baca7c78",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1309_SourceHanSansSC-Medium_Purple",
+            "AssetPath": "Assets/YooContent/Font/cn/1309_SourceHanSansSC-Medium_Purple.mat",
+            "AssetGUID": "d72dd9d7cc4d8f64fb305b918dabdd5e",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1310_SourceHanSansSC-Medium_Tip",
+            "AssetPath": "Assets/YooContent/Font/cn/1310_SourceHanSansSC-Medium_Tip.mat",
+            "AssetGUID": "cbe11f1c8e75bcb47ab85dbbc91134b3",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "1401_SourceHanSansSC-Medium_SDF_Hidden",
+            "AssetPath": "Assets/YooContent/Font/cn/1401_SourceHanSansSC-Medium_SDF_Hidden.mat",
+            "AssetGUID": "ca0a263ba8085bd45854e58da9365f8b",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png"
+            ]
+        },
+        {
+            "Address": "2001_BIGNOODLETOO SDF_Green",
+            "AssetPath": "Assets/YooContent/Font/cn/2001_BIGNOODLETOO SDF_Green.mat",
+            "AssetGUID": "1699175c0b7d1374c833bb07def9174b",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2001_BIGNOODLETOO SDF_Ogray",
+            "AssetPath": "Assets/YooContent/Font/cn/2001_BIGNOODLETOO SDF_Ogray.mat",
+            "AssetGUID": "79d3177e6f6aebd46b7beb5e66de0522",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2001_BIGNOODLETOO SDF_Ogreen",
+            "AssetPath": "Assets/YooContent/Font/cn/2001_BIGNOODLETOO SDF_Ogreen.mat",
+            "AssetGUID": "4061070e9df51a846bc9a9e344b32d35",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2003_BIGNOODLETOO SDF_Ugray",
+            "AssetPath": "Assets/YooContent/Font/cn/2003_BIGNOODLETOO SDF_Ugray.mat",
+            "AssetGUID": "d75c1cc2dd2eb9e46be2076f561ef1b0",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2003_BIGNOODLETOO SDF_Ugray_Overlay",
+            "AssetPath": "Assets/YooContent/Font/cn/2003_BIGNOODLETOO SDF_Ugray_Overlay.mat",
+            "AssetGUID": "3aeefa85141d79a4b9b70ac2c084651e",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2004_BIGNOODLETOO SDF_Ggreen",
+            "AssetPath": "Assets/YooContent/Font/cn/2004_BIGNOODLETOO SDF_Ggreen.mat",
+            "AssetGUID": "f6c02b66fc958a7419dc49739fe627ee",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2011_BIGNOODLETOO SDF_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/2011_BIGNOODLETOO SDF_Gblue.mat",
+            "AssetGUID": "8f018254743d9204d8cef9d45016218d",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2011_BIGNOODLETOO SDF_Gblue_Overlay",
+            "AssetPath": "Assets/YooContent/Font/cn/2011_BIGNOODLETOO SDF_Gblue_Overlay.mat",
+            "AssetGUID": "603097ac74068d04eb81b99cd2bbc189",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2012_BIGNOODLETOO SDF_Gpurple",
+            "AssetPath": "Assets/YooContent/Font/cn/2012_BIGNOODLETOO SDF_Gpurple.mat",
+            "AssetGUID": "13c9020a71b911947a06122dbca29ab6",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2013_BIGNOODLETOO SDF_Gorange",
+            "AssetPath": "Assets/YooContent/Font/cn/2013_BIGNOODLETOO SDF_Gorange.mat",
+            "AssetGUID": "ee4324bc40cb6cd44958043947751c9b",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2014_BIGNOODLETOO SDF_Gorange",
+            "AssetPath": "Assets/YooContent/Font/cn/2014_BIGNOODLETOO SDF_Gorange.mat",
+            "AssetGUID": "2d6fd99b7a5835f4bbf69b8bedf8f828",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2019_BIGNOODLETOO SDF_Gsilver",
+            "AssetPath": "Assets/YooContent/Font/cn/2019_BIGNOODLETOO SDF_Gsilver.mat",
+            "AssetGUID": "c1ea651c141d4dd44a1a46e96309ca5d",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2019_BIGNOODLETOO SDF_Gsilver_Glitch",
+            "AssetPath": "Assets/YooContent/Font/cn/2019_BIGNOODLETOO SDF_Gsilver_Glitch.mat",
+            "AssetGUID": "4094f023d03b89142af1f31ae16ea73d",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2020_BIGNOODLETOO SDF_Gcyan",
+            "AssetPath": "Assets/YooContent/Font/cn/2020_BIGNOODLETOO SDF_Gcyan.mat",
+            "AssetGUID": "6499b82885dd4034584b48a6e2799d8e",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2030_BIGNOODLETOO SDF_Hidden",
+            "AssetPath": "Assets/YooContent/Font/cn/2030_BIGNOODLETOO SDF_Hidden.mat",
+            "AssetGUID": "15130a7fafa87d747a9e1e2d17b7f7de",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2101_BIGNOODLETOO SDF_Owhite",
+            "AssetPath": "Assets/YooContent/Font/cn/2101_BIGNOODLETOO SDF_Owhite.mat",
+            "AssetGUID": "a93aff57e3740234bb6b043797337003",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2103_BIGNOODLETOO SDF_Owhite_Bold",
+            "AssetPath": "Assets/YooContent/Font/cn/2103_BIGNOODLETOO SDF_Owhite_Bold.mat",
+            "AssetGUID": "02c72c45eef18ac428acfe42a3ba1010",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2104_BIGNOODLETOO SDF_Oblack_alpha_0.5_Bold",
+            "AssetPath": "Assets/YooContent/Font/cn/2104_BIGNOODLETOO SDF_Oblack_alpha_0.5_Bold.mat",
+            "AssetGUID": "34015df63b5212b46bfbde27ad785cf9",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2105_BIGNOODLETOO SDF_Oclear_Bold",
+            "AssetPath": "Assets/YooContent/Font/cn/2105_BIGNOODLETOO SDF_Oclear_Bold.mat",
+            "AssetGUID": "40eba96d5e2f9c442ab08d761831a2dd",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2301_BIGNOODLETOO SDF_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/2301_BIGNOODLETOO SDF_Gblue.mat",
+            "AssetGUID": "c01116d1f67971b458bba4041bee3b9b",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "2302_BIGNOODLETOO SDF_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/2302_BIGNOODLETOO SDF_Gblue.mat",
+            "AssetGUID": "c82ce89c34eb24a46b53d04bd279f568",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "3001_icomoon SDF_Ogray",
+            "AssetPath": "Assets/YooContent/Font/cn/3001_icomoon SDF_Ogray.mat",
+            "AssetGUID": "c33f2bcee7185384bab9a054592cdf37",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "3001_icomoon SDF_Ogray_Overlay",
+            "AssetPath": "Assets/YooContent/Font/cn/3001_icomoon SDF_Ogray_Overlay.mat",
+            "AssetGUID": "d51a1509bb6cce34e8112575da35c02d",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "3003_icomoon SDF_Ugray",
+            "AssetPath": "Assets/YooContent/Font/cn/3003_icomoon SDF_Ugray.mat",
+            "AssetGUID": "fc00e5b3aaf35534faec97cfbf8beafc",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "3003_icomoon SDF_Ugray_Overlay",
+            "AssetPath": "Assets/YooContent/Font/cn/3003_icomoon SDF_Ugray_Overlay.mat",
+            "AssetGUID": "1180a231eaeb94044bbd34d3cce9218b",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "3010_icomoon SDF_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/3010_icomoon SDF_Gblue.mat",
+            "AssetGUID": "1804f841b6ef6b548b1dbeca5268a74b",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "3011_icomoon SDF_Gblue_Overlay",
+            "AssetPath": "Assets/YooContent/Font/cn/3011_icomoon SDF_Gblue_Overlay.mat",
+            "AssetGUID": "542d0a6fd7caf8b418fb54d7e32441ab",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "3014_icomoon SDF_Gyellow",
+            "AssetPath": "Assets/YooContent/Font/cn/3014_icomoon SDF_Gyellow.mat",
+            "AssetGUID": "21771fc2a020b704ebfd52432f27ab07",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "3015_icomoon SDF_Gred",
+            "AssetPath": "Assets/YooContent/Font/cn/3015_icomoon SDF_Gred.mat",
+            "AssetGUID": "7248ed91460de8d4a97b77078586a68d",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "3018_icomoon SDF_Ugray_Gred",
+            "AssetPath": "Assets/YooContent/Font/cn/3018_icomoon SDF_Ugray_Gred.mat",
+            "AssetGUID": "298292d71e1d2de4e8b7dca63dced0a2",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "3101_icomoon SDF_Odarkblue_alpha_0.5",
+            "AssetPath": "Assets/YooContent/Font/cn/3101_icomoon SDF_Odarkblue_alpha_0.5.mat",
+            "AssetGUID": "931faadee8828524d9eea923ca267481",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "3102_icomoon SDF_Owhite_alpha_0.3",
+            "AssetPath": "Assets/YooContent/Font/cn/3102_icomoon SDF_Owhite_alpha_0.3.mat",
+            "AssetGUID": "47cbc0abdda66c84b9bdfa597a9f2424",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "3103_icomoon SDF_Obule_alpha_0.1",
+            "AssetPath": "Assets/YooContent/Font/cn/3103_icomoon SDF_Obule_alpha_0.1.mat",
+            "AssetGUID": "c4e0e41481513a0478618dddd3655c98",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "3104_icomoon SDF_Ored_alpha_0.1",
+            "AssetPath": "Assets/YooContent/Font/cn/3104_icomoon SDF_Ored_alpha_0.1.mat",
+            "AssetGUID": "1bb59a3bc2fad124fa7f44737e18304d",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "3201_icomoon SDF_Hidden",
+            "AssetPath": "Assets/YooContent/Font/cn/3201_icomoon SDF_Hidden.mat",
+            "AssetGUID": "78c4f6a2308aca642bd51fd403a57a29",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "3301_icomoon SDF_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/3301_icomoon SDF_Gblue.mat",
+            "AssetGUID": "36dda100ff9294b4ca00d474b32d6005",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "3302_icomoon SDF_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/3302_icomoon SDF_Gblue.mat",
+            "AssetGUID": "f42ad51a891cb14448adacb3c180b552",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "3305_icomoon SDF_Gyellow_Light",
+            "AssetPath": "Assets/YooContent/Font/cn/3305_icomoon SDF_Gyellow_Light.mat",
+            "AssetGUID": "7b00c023c79dbda418fa70d3ee42861b",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "3308_icomoon SDF_Blue",
+            "AssetPath": "Assets/YooContent/Font/cn/3308_icomoon SDF_Blue.mat",
+            "AssetGUID": "2041aa0a15393f44fa6a207ad27100df",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "4011_MFZaoZiGongFang_Noncommercial-Regular SDF_Gblue",
+            "AssetPath": "Assets/YooContent/Font/cn/4011_MFZaoZiGongFang_Noncommercial-Regular SDF_Gblue.mat",
+            "AssetGUID": "3d89c0c57ec25984eb3eed01d1b75905",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Regular SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "4012_MFZaoZiGongFang_Noncommercial-Regular SDF_Gpurple",
+            "AssetPath": "Assets/YooContent/Font/cn/4012_MFZaoZiGongFang_Noncommercial-Regular SDF_Gpurple.mat",
+            "AssetGUID": "50a1158f89fd70f4bbd9244c0d9e610c",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Regular SDF_PNG.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "big-noodle-too.woff",
+            "AssetPath": "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+            "AssetGUID": "6ae04e2c36dbf0b448fa7d1df84d2ed7",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": []
+        },
+        {
+            "Address": "BIGNOODLETOO SDF Material add",
+            "AssetPath": "Assets/YooContent/Font/cn/BIGNOODLETOO SDF Material add.mat",
+            "AssetGUID": "e8d55b5ed7b105b43ac93bb6733d21b0",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "BIGNOODLETOO SDF",
+            "AssetPath": "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset",
+            "AssetGUID": "db28928fbef685643a69385a1fe97b40",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "BIGNOODLETOO SDF_overlay",
+            "AssetPath": "Assets/YooContent/Font/cn/BIGNOODLETOO SDF_overlay.mat",
+            "AssetGUID": "d9c4c3466825bcb42b6bbe99fe03a346",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset"
+            ]
+        },
+        {
+            "Address": "font",
+            "AssetPath": "Assets/YooContent/Font/cn/font.ttc",
+            "AssetGUID": "04573210a6af60941be10d8e565ef1bc",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": []
+        },
+        {
+            "Address": "fontbd",
+            "AssetPath": "Assets/YooContent/Font/cn/fontbd.ttc",
+            "AssetGUID": "199b5d651add9c74792d28330ba7bbac",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": []
+        },
+        {
+            "Address": "FZRuiZYJW_Cu SDF",
+            "AssetPath": "Assets/YooContent/Font/cn/FZRuiZYJW_Cu SDF.asset",
+            "AssetGUID": "04df9d5d755528b46bf819c725a9c3e0",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "FZYanSJW_Cu_New SDF",
+            "AssetPath": "Assets/YooContent/Font/cn/FZYanSJW_Cu_New SDF.asset",
+            "AssetGUID": "f3b3865c64bf32743bae8c9490f4f5e1",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd"
+            ]
+        },
+        {
+            "Address": "IcoEmoji SDF",
+            "AssetPath": "Assets/YooContent/Font/cn/IcoEmoji SDF.asset",
+            "AssetGUID": "17fa88f645bd9b740aafe0d3c152ca63",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/IcoEmoji SDF_PNG.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "IcoEmoji SDF_PNG",
+            "AssetPath": "Assets/YooContent/Font/cn/IcoEmoji SDF_PNG.png",
+            "AssetGUID": "5795b4e04c2ddd2439cbb5fc5a579e4b",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": []
+        },
+        {
+            "Address": "icomoon SDF",
+            "AssetPath": "Assets/YooContent/Font/cn/icomoon SDF.asset",
+            "AssetGUID": "9d455a31a42f5bd4dbda6761fd7c0dfb",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png",
+                "Assets/YooContent/Font/cn/icomoon.ttf"
+            ]
+        },
+        {
+            "Address": "icomoon SDF1_ColorDodge",
+            "AssetPath": "Assets/YooContent/Font/cn/icomoon SDF1_ColorDodge.mat",
+            "AssetGUID": "48389989645ebfc45b77f9978cbb325e",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "icomoon SDF1_Orange",
+            "AssetPath": "Assets/YooContent/Font/cn/icomoon SDF1_Orange.mat",
+            "AssetGUID": "be855dc6d9db6a24da4da6a68f60b67e",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png"
+            ]
+        },
+        {
+            "Address": "icomoon SDF1_overlay",
+            "AssetPath": "Assets/YooContent/Font/cn/icomoon SDF1_overlay.mat",
+            "AssetGUID": "d3d10ef971cfe7b47854a46d0a5ace55",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader"
+            ]
+        },
+        {
+            "Address": "icomoon SDF_Png",
+            "AssetPath": "Assets/YooContent/Font/cn/icomoon SDF_Png.png",
+            "AssetGUID": "99fe4015e1a9ec8418bd7afcccee7eaf",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": []
+        },
+        {
+            "Address": "icomoon",
+            "AssetPath": "Assets/YooContent/Font/cn/icomoon.ttf",
+            "AssetGUID": "dc7015a851c09e544a74955ca5868b49",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": []
+        },
+        {
+            "Address": "MFZaoZiGongFang_Noncommercial-Light Static",
+            "AssetPath": "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Light Static.asset",
+            "AssetGUID": "79a1c5c8cf40a2d48a3867240a0b93ca",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF.asset",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium.otf"
+            ]
+        },
+        {
+            "Address": "MFZaoZiGongFang_Noncommercial-Regular SDF-Fallback",
+            "AssetPath": "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Regular SDF-Fallback.asset",
+            "AssetGUID": "56df5a924ac2b3541b86473b0599b839",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Regular.otf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd"
+            ]
+        },
+        {
+            "Address": "MFZaoZiGongFang_Noncommercial-Regular SDF",
+            "AssetPath": "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Regular SDF.asset",
+            "AssetGUID": "237837e1b14e4de4182d95ed5206a1ec",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Regular.otf",
+                "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Regular SDF_PNG.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "Address": "MFZaoZiGongFang_Noncommercial-Regular SDF_PNG",
+            "AssetPath": "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Regular SDF_PNG.png",
+            "AssetGUID": "f3b8bb7046a2ea14b9bc8d7fbe14b022",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": []
+        },
+        {
+            "Address": "MFZaoZiGongFang_Noncommercial-Regular",
+            "AssetPath": "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Regular.otf",
+            "AssetGUID": "2b16c7404e2ab4746840eea7cbbda270",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": []
+        },
+        {
+            "Address": "NotoEmoji-Bold",
+            "AssetPath": "Assets/YooContent/Font/cn/NotoEmoji-Bold.ttf",
+            "AssetGUID": "7cc58421be6d15d4f98dc9904027fc17",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": []
+        },
+        {
+            "Address": "OCRAEXT_0",
+            "AssetPath": "Assets/YooContent/Font/cn/OCRAEXT_0.asset",
+            "AssetGUID": "9b102aab6be721143a7480a77ea3e082",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/OCRAEXT_0_TTF.ttf",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader"
+            ]
+        },
+        {
+            "Address": "OCRAEXT_0_TTF",
+            "AssetPath": "Assets/YooContent/Font/cn/OCRAEXT_0_TTF.ttf",
+            "AssetGUID": "d22dc063fd4d07e43b13ba50a791a032",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": []
+        },
+        {
+            "Address": "SourceHanSansSC-Medium SDF-Fallback",
+            "AssetPath": "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF-Fallback.asset",
+            "AssetGUID": "741b568b5ffb9e747b8694153908572d",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium.otf"
+            ]
+        },
+        {
+            "Address": "SourceHanSansSC-Medium SDF",
+            "AssetPath": "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF.asset",
+            "AssetGUID": "49aab2a63efdfd14a8561bdf834e14e3",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium.otf"
+            ]
+        },
+        {
+            "Address": "SourceHanSansSC-Medium SDF_PNG",
+            "AssetPath": "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+            "AssetGUID": "b8ce85650f6c4d6488d54453ccec7f45",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": []
+        },
+        {
+            "Address": "SourceHanSansSC-Medium SDF_SubtitleEffect",
+            "AssetPath": "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_SubtitleEffect.mat",
+            "AssetGUID": "39eca11388c3360409d2e472a75b702f",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png"
+            ]
+        },
+        {
+            "Address": "SourceHanSansSC-Medium SDF_SubtitleEffect_2",
+            "AssetPath": "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_SubtitleEffect_2.mat",
+            "AssetGUID": "be95f2773a9ee76408b12fd815497f0e",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png"
+            ]
+        },
+        {
+            "Address": "SourceHanSansSC-Medium SDF_SubtitleEffectDisable",
+            "AssetPath": "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_SubtitleEffectDisable.mat",
+            "AssetGUID": "ecf166f9b884faa43834040967281b29",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png"
+            ]
+        },
+        {
+            "Address": "SourceHanSansSC-Medium SDF_SubtitleEffectEnabled",
+            "AssetPath": "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_SubtitleEffectEnabled.mat",
+            "AssetGUID": "96276e9db26386d45a14129ec0195169",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png"
+            ]
+        },
+        {
+            "Address": "SourceHanSansSC-Medium",
+            "AssetPath": "Assets/YooContent/Font/cn/SourceHanSansSC-Medium.otf",
+            "AssetGUID": "af63f804cfb4eb6468d2ce0743b5901f",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": []
+        },
+        {
+            "Address": "SourceHanSansSC-Medium_SDF_ScanLineJitterAndLineBlock",
+            "AssetPath": "Assets/YooContent/Font/cn/SourceHanSansSC-Medium_SDF_ScanLineJitterAndLineBlock.mat",
+            "AssetGUID": "c3e5ca07fa26b274db86c2fc985d152c",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_fontgroup.bundle",
+            "MainBundleSize": 65404478,
+            "DependAssets": [
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png"
+            ]
+        },
+        {
+            "Address": "UI_Test1",
+            "AssetPath": "Assets/YooContent/UI/Prefabs/Test/UI_Test1.prefab",
+            "AssetGUID": "d231f01dedbef4c418389e33ee385158",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_prefabgroup.bundle",
+            "MainBundleSize": 14840,
+            "DependAssets": [
+                "Assets/YooContent/Atlas/1.png",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "Address": "UI_Test2",
+            "AssetPath": "Assets/YooContent/UI/Prefabs/Test/UI_Test2.prefab",
+            "AssetGUID": "c4086a465380b57409f06d7ce686e5b2",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_prefabgroup.bundle",
+            "MainBundleSize": 14840,
+            "DependAssets": [
+                "Assets/Sprite/image 1.png",
+                "Assets/YooContent/AnimationUI/aniTest.controller",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/YooContent/AnimationUI/Close.anim",
+                "Assets/YooContent/AnimationUI/Open.anim"
+            ]
+        },
+        {
+            "Address": "UI_Test3",
+            "AssetPath": "Assets/YooContent/UI/Prefabs/Test/UI_Test3.prefab",
+            "AssetGUID": "775e5b996f175d1409fef1d6bb45d585",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_prefabgroup.bundle",
+            "MainBundleSize": 14840,
+            "DependAssets": [
+                "Assets/Sprite/image 1.png",
+                "Assets/YooContent/AnimationUI/aniTest.controller",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/YooContent/AnimationUI/Close.anim",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/YooContent/AnimationUI/Open.anim",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "Address": "1",
+            "AssetPath": "Assets/YooContent/Atlas/1.png",
+            "AssetGUID": "519f715455bad7746be5f8cc417d01d0",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_atlasgroup.bundle",
+            "MainBundleSize": 73231,
+            "DependAssets": []
+        },
+        {
+            "Address": "Test",
+            "AssetPath": "Assets/YooContent/Atlas/Test.spriteatlas",
+            "AssetGUID": "16ae91e23fe8427418483dbe1e9d036d",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_atlasgroup.bundle",
+            "MainBundleSize": 73231,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonSpriteAtlas",
+            "AssetPath": "Assets/YooContent/Sprite/Common/CommonSpriteAtlas.spriteatlas",
+            "AssetGUID": "0af5f092180629347abe7a960bd364e7",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_assets_yoocontent_sprite_common.bundle",
+            "MainBundleSize": 153350,
+            "DependAssets": [
+                "Assets/Sprite/image 4.png"
+            ]
+        },
+        {
+            "Address": "Sprite_Atlas",
+            "AssetPath": "Assets/YooContent/Sprite/Main/Sprite_Atlas.spriteatlas",
+            "AssetGUID": "f294efbee4b27b540bd1f50a4c1d5c13",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_assets_yoocontent_sprite_main.bundle",
+            "MainBundleSize": 452148,
+            "DependAssets": [
+                "Assets/Sprite/image 1.png",
+                "Assets/Sprite/image 3.png",
+                "Assets/Sprite/image 2.png",
+                "Assets/Sprite/image 4.png"
+            ]
+        },
+        {
+            "Address": "App.dll",
+            "AssetPath": "Assets/YooContent/HyBrid_Dll/HotUpdateDll/App.dll.bytes",
+            "AssetGUID": "773f3b29dd5b489499f47482e2e754ea",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_assets_yoocontent_hybrid_dll_hotupdatedll_app_dll_bytes.rawfile",
+            "MainBundleSize": 7931,
+            "DependAssets": []
+        },
+        {
+            "Address": "Framework.dll",
+            "AssetPath": "Assets/YooContent/HyBrid_Dll/HotUpdateDll/Framework.dll.bytes",
+            "AssetGUID": "8b4116db8f9cc6646931750c6284eaf7",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_assets_yoocontent_hybrid_dll_hotupdatedll_framework_dll_bytes.rawfile",
+            "MainBundleSize": 23750,
+            "DependAssets": []
+        },
+        {
+            "Address": "Logic.dll",
+            "AssetPath": "Assets/YooContent/HyBrid_Dll/HotUpdateDll/Logic.dll.bytes",
+            "AssetGUID": "7014179087692dd46a0bc99810db8bfa",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_assets_yoocontent_hybrid_dll_hotupdatedll_logic_dll_bytes.rawfile",
+            "MainBundleSize": 7669,
+            "DependAssets": []
+        },
+        {
+            "Address": "Lib.dll",
+            "AssetPath": "Assets/YooContent/HyBrid_Dll/MetaDataDll/Lib.dll.bytes",
+            "AssetGUID": "fafc53053b72cc64d9443c079d0a5ed5",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_lib_dll_bytes.rawfile",
+            "MainBundleSize": 7225,
+            "DependAssets": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/YooContent/HyBrid_Dll/MetaDataDll/mscorlib.dll.bytes",
+            "AssetGUID": "eb19e1e489e49ac4c84f350bda057bfd",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_mscorlib_dll_bytes.rawfile",
+            "MainBundleSize": 1017736,
+            "DependAssets": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/YooContent/HyBrid_Dll/MetaDataDll/System.Core.dll.bytes",
+            "AssetGUID": "eb9fde2e9ddf9f342aa40aa10a797d86",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_system_core_dll_bytes.rawfile",
+            "MainBundleSize": 46328,
+            "DependAssets": []
+        },
+        {
+            "Address": "UnityEngine.CoreModule.dll",
+            "AssetPath": "Assets/YooContent/HyBrid_Dll/MetaDataDll/UnityEngine.CoreModule.dll.bytes",
+            "AssetGUID": "351d690d8315f3640a2870549e44d341",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_unityengine_coremodule_dll_bytes.rawfile",
+            "MainBundleSize": 212637,
+            "DependAssets": []
+        },
+        {
+            "Address": "YooAsset.dll",
+            "AssetPath": "Assets/YooContent/HyBrid_Dll/MetaDataDll/YooAsset.dll.bytes",
+            "AssetGUID": "4a6ba8a287490324fa492b2c8c38da1b",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_yooasset_dll_bytes.rawfile",
+            "MainBundleSize": 85925,
+            "DependAssets": []
+        },
+        {
+            "Address": "MetaDataDllToLoad",
+            "AssetPath": "Assets/YooContent/HyBrid_Dll/MetaDataDllToLoad.txt",
+            "AssetGUID": "4eaa26c3b3b62f646aa91c26516ac503",
+            "AssetTags": [],
+            "MainBundleName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadlltoload_txt.rawfile",
+            "MainBundleSize": 1322,
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "yoocontent_scenegroup.bundle",
+            "FileName": "yoocontent_scenegroup.bundle",
+            "FileHash": "df91e3f59a39f29dde6f4eb471759526",
+            "FileCRC": "bf9fac7a",
+            "FileSize": 9073,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "yoocontent_share_assets_unity-logs-viewer-master_reporter_images.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/YooContent/Scenes/Enter.unity",
+                "Assets/YooContent/Scenes/Main.unity"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_audiogroup.bundle",
+            "FileName": "yoocontent_audiogroup.bundle",
+            "FileHash": "91523dae7b0e8d88923b518085606cef",
+            "FileCRC": "bbd013a7",
+            "FileSize": 3237835,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/YooContent/Audio/BGM/BGM_Pkm_City1.mp3",
+                "Assets/YooContent/Audio/SE/Ui_Cick.mp3"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_fontgroup.bundle",
+            "FileName": "yoocontent_fontgroup.bundle",
+            "FileHash": "c527e40dae8069024d74b0d18ad35138",
+            "FileCRC": "64c08400",
+            "FileSize": 65404478,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "yoocontent_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/YooContent/Font/cn/1001_SourceHanSansSC-Medium_Ogray.mat",
+                "Assets/YooContent/Font/cn/1002_SourceHanSansSC-Medium_Ocyan.mat",
+                "Assets/YooContent/Font/cn/1003_SourceHanSansSC-Medium_Ugray.mat",
+                "Assets/YooContent/Font/cn/1003_SourceHanSansSC-Medium_Ugray_Overlay.mat",
+                "Assets/YooContent/Font/cn/1004_SourceHanSansSC-Medium_Ggreen.mat",
+                "Assets/YooContent/Font/cn/1005_SourceHanSansSC-Medium_Owhite.mat",
+                "Assets/YooContent/Font/cn/1006_SourceHanSansSC-Medium_Ored.mat",
+                "Assets/YooContent/Font/cn/1007_SourceHanSansSC-Medium_Oorange_alpha_0.5.mat",
+                "Assets/YooContent/Font/cn/1008_SourceHanSansSC-Medium_Oblue.mat",
+                "Assets/YooContent/Font/cn/1009_SourceHanSansSC-Medium_Oblue_alpha_0.5.mat",
+                "Assets/YooContent/Font/cn/1010_SourceHanSansSC-Medium_Oblack_alpha_0.1.mat",
+                "Assets/YooContent/Font/cn/1011_SourceHanSansSC-Medium_Gblue.mat",
+                "Assets/YooContent/Font/cn/1011_SourceHanSansSC-Medium_Gblue_Overlay.mat",
+                "Assets/YooContent/Font/cn/1012_SourceHanSansSC-Medium_Gpurple.mat",
+                "Assets/YooContent/Font/cn/1013_SourceHanSansSC-Medium_Ob05437_alpha_0.5.mat",
+                "Assets/YooContent/Font/cn/1015_SourceHanSansSC-Medium_Gred.mat",
+                "Assets/YooContent/Font/cn/1016_SourceHanSansSC-Medium_Odarkgrey_Gorange.mat",
+                "Assets/YooContent/Font/cn/1017_SourceHanSansSC-Medium_Odarkgrey_Gblue.mat",
+                "Assets/YooContent/Font/cn/1018_SourceHanSansSC-Medium_Ugray_Gred.mat",
+                "Assets/YooContent/Font/cn/1019_SourceHanSansSC-Medium_Soft.mat",
+                "Assets/YooContent/Font/cn/1103_SourceHanSansSC-Medium_Owhite_Bold.mat",
+                "Assets/YooContent/Font/cn/1104_SourceHanSansSC-Medium_Oblack_alpha_0.5_Bold.mat",
+                "Assets/YooContent/Font/cn/1105_SourceHanSansSC-Medium_Oclear_Bold.mat",
+                "Assets/YooContent/Font/cn/1201_SourceHanSansSC-Medium_ColorDodge_3D.mat",
+                "Assets/YooContent/Font/cn/1301_SourceHanSansSC-Medium_Gwhite.mat",
+                "Assets/YooContent/Font/cn/1302_SourceHanSansSC-Medium_Ggreen.mat",
+                "Assets/YooContent/Font/cn/1303_SourceHanSansSC-Medium_Gblue.mat",
+                "Assets/YooContent/Font/cn/1304_SourceHanSansSC-Medium_Gpurple.mat",
+                "Assets/YooContent/Font/cn/1305_SourceHanSansSC-Medium_Gorange.mat",
+                "Assets/YooContent/Font/cn/1306_SourceHanSansSC-Medium_Gred.mat",
+                "Assets/YooContent/Font/cn/1307_SourceHanSansSC-Medium_Gblue.mat",
+                "Assets/YooContent/Font/cn/1308_SourceHanSansSC-Medium_Gblue.mat",
+                "Assets/YooContent/Font/cn/1309_SourceHanSansSC-Medium_Purple.mat",
+                "Assets/YooContent/Font/cn/1310_SourceHanSansSC-Medium_Tip.mat",
+                "Assets/YooContent/Font/cn/1401_SourceHanSansSC-Medium_SDF_Hidden.mat",
+                "Assets/YooContent/Font/cn/2001_BIGNOODLETOO SDF_Green.mat",
+                "Assets/YooContent/Font/cn/2001_BIGNOODLETOO SDF_Ogray.mat",
+                "Assets/YooContent/Font/cn/2001_BIGNOODLETOO SDF_Ogreen.mat",
+                "Assets/YooContent/Font/cn/2003_BIGNOODLETOO SDF_Ugray.mat",
+                "Assets/YooContent/Font/cn/2003_BIGNOODLETOO SDF_Ugray_Overlay.mat",
+                "Assets/YooContent/Font/cn/2004_BIGNOODLETOO SDF_Ggreen.mat",
+                "Assets/YooContent/Font/cn/2011_BIGNOODLETOO SDF_Gblue.mat",
+                "Assets/YooContent/Font/cn/2011_BIGNOODLETOO SDF_Gblue_Overlay.mat",
+                "Assets/YooContent/Font/cn/2012_BIGNOODLETOO SDF_Gpurple.mat",
+                "Assets/YooContent/Font/cn/2013_BIGNOODLETOO SDF_Gorange.mat",
+                "Assets/YooContent/Font/cn/2014_BIGNOODLETOO SDF_Gorange.mat",
+                "Assets/YooContent/Font/cn/2019_BIGNOODLETOO SDF_Gsilver.mat",
+                "Assets/YooContent/Font/cn/2019_BIGNOODLETOO SDF_Gsilver_Glitch.mat",
+                "Assets/YooContent/Font/cn/2020_BIGNOODLETOO SDF_Gcyan.mat",
+                "Assets/YooContent/Font/cn/2030_BIGNOODLETOO SDF_Hidden.mat",
+                "Assets/YooContent/Font/cn/2101_BIGNOODLETOO SDF_Owhite.mat",
+                "Assets/YooContent/Font/cn/2103_BIGNOODLETOO SDF_Owhite_Bold.mat",
+                "Assets/YooContent/Font/cn/2104_BIGNOODLETOO SDF_Oblack_alpha_0.5_Bold.mat",
+                "Assets/YooContent/Font/cn/2105_BIGNOODLETOO SDF_Oclear_Bold.mat",
+                "Assets/YooContent/Font/cn/2301_BIGNOODLETOO SDF_Gblue.mat",
+                "Assets/YooContent/Font/cn/2302_BIGNOODLETOO SDF_Gblue.mat",
+                "Assets/YooContent/Font/cn/3001_icomoon SDF_Ogray.mat",
+                "Assets/YooContent/Font/cn/3001_icomoon SDF_Ogray_Overlay.mat",
+                "Assets/YooContent/Font/cn/3003_icomoon SDF_Ugray.mat",
+                "Assets/YooContent/Font/cn/3003_icomoon SDF_Ugray_Overlay.mat",
+                "Assets/YooContent/Font/cn/3010_icomoon SDF_Gblue.mat",
+                "Assets/YooContent/Font/cn/3011_icomoon SDF_Gblue_Overlay.mat",
+                "Assets/YooContent/Font/cn/3014_icomoon SDF_Gyellow.mat",
+                "Assets/YooContent/Font/cn/3015_icomoon SDF_Gred.mat",
+                "Assets/YooContent/Font/cn/3018_icomoon SDF_Ugray_Gred.mat",
+                "Assets/YooContent/Font/cn/3101_icomoon SDF_Odarkblue_alpha_0.5.mat",
+                "Assets/YooContent/Font/cn/3102_icomoon SDF_Owhite_alpha_0.3.mat",
+                "Assets/YooContent/Font/cn/3103_icomoon SDF_Obule_alpha_0.1.mat",
+                "Assets/YooContent/Font/cn/3104_icomoon SDF_Ored_alpha_0.1.mat",
+                "Assets/YooContent/Font/cn/3201_icomoon SDF_Hidden.mat",
+                "Assets/YooContent/Font/cn/3301_icomoon SDF_Gblue.mat",
+                "Assets/YooContent/Font/cn/3302_icomoon SDF_Gblue.mat",
+                "Assets/YooContent/Font/cn/3305_icomoon SDF_Gyellow_Light.mat",
+                "Assets/YooContent/Font/cn/3308_icomoon SDF_Blue.mat",
+                "Assets/YooContent/Font/cn/4011_MFZaoZiGongFang_Noncommercial-Regular SDF_Gblue.mat",
+                "Assets/YooContent/Font/cn/4012_MFZaoZiGongFang_Noncommercial-Regular SDF_Gpurple.mat",
+                "Assets/YooContent/Font/cn/big-noodle-too.woff.ttf",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF Material add.mat",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF.asset",
+                "Assets/YooContent/Font/cn/BIGNOODLETOO SDF_overlay.mat",
+                "Assets/YooContent/Font/cn/font.ttc",
+                "Assets/YooContent/Font/cn/fontbd.ttc",
+                "Assets/YooContent/Font/cn/FZRuiZYJW_Cu SDF.asset",
+                "Assets/YooContent/Font/cn/FZYanSJW_Cu_New SDF.asset",
+                "Assets/YooContent/Font/cn/IcoEmoji SDF.asset",
+                "Assets/YooContent/Font/cn/IcoEmoji SDF_PNG.png",
+                "Assets/YooContent/Font/cn/icomoon SDF.asset",
+                "Assets/YooContent/Font/cn/icomoon SDF1_ColorDodge.mat",
+                "Assets/YooContent/Font/cn/icomoon SDF1_Orange.mat",
+                "Assets/YooContent/Font/cn/icomoon SDF1_overlay.mat",
+                "Assets/YooContent/Font/cn/icomoon SDF_Png.png",
+                "Assets/YooContent/Font/cn/icomoon.ttf",
+                "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Light Static.asset",
+                "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Regular SDF-Fallback.asset",
+                "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Regular SDF.asset",
+                "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Regular SDF_PNG.png",
+                "Assets/YooContent/Font/cn/MFZaoZiGongFang_Noncommercial-Regular.otf",
+                "Assets/YooContent/Font/cn/NotoEmoji-Bold.ttf",
+                "Assets/YooContent/Font/cn/OCRAEXT_0.asset",
+                "Assets/YooContent/Font/cn/OCRAEXT_0_TTF.ttf",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF-Fallback.asset",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF.asset",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_PNG.png",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_SubtitleEffect.mat",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_SubtitleEffect_2.mat",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_SubtitleEffectDisable.mat",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium SDF_SubtitleEffectEnabled.mat",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium.otf",
+                "Assets/YooContent/Font/cn/SourceHanSansSC-Medium_SDF_ScanLineJitterAndLineBlock.mat"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_prefabgroup.bundle",
+            "FileName": "yoocontent_prefabgroup.bundle",
+            "FileHash": "72670abe920096085289e8edd97f9337",
+            "FileCRC": "d7fedef5",
+            "FileSize": 14840,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "yoocontent_atlasgroup.bundle",
+                "yoocontent_share_assets_sprite.bundle",
+                "yoocontent_share_assets_textmesh_pro_fonts.bundle",
+                "yoocontent_share_assets_textmesh_pro_resources_fonts_&_materials.bundle",
+                "yoocontent_share_assets_yoocontent_animationui.bundle",
+                "yoocontent_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/YooContent/UI/Prefabs/Test/UI_Test1.prefab",
+                "Assets/YooContent/UI/Prefabs/Test/UI_Test2.prefab",
+                "Assets/YooContent/UI/Prefabs/Test/UI_Test3.prefab"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_atlasgroup.bundle",
+            "FileName": "yoocontent_atlasgroup.bundle",
+            "FileHash": "53d51b79b02e55eb59ae08904d6b871b",
+            "FileCRC": "afabf317",
+            "FileSize": 73231,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/YooContent/Atlas/1.png",
+                "Assets/YooContent/Atlas/Test.spriteatlas"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_sprite_common.bundle",
+            "FileName": "yoocontent_assets_yoocontent_sprite_common.bundle",
+            "FileHash": "aa151ddf005aea3abf1b216f87562252",
+            "FileCRC": "2e570ab5",
+            "FileSize": 153350,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "yoocontent_share_assets_sprite.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/YooContent/Sprite/Common/CommonSpriteAtlas.spriteatlas"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_sprite_main.bundle",
+            "FileName": "yoocontent_assets_yoocontent_sprite_main.bundle",
+            "FileHash": "c6e6ded9b039ce05a7ebe90b9f67a239",
+            "FileCRC": "d3b7ff6c",
+            "FileSize": 452148,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "yoocontent_share_assets_sprite.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/YooContent/Sprite/Main/Sprite_Atlas.spriteatlas"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_hybrid_dll_hotupdatedll_app_dll_bytes.rawfile",
+            "FileName": "yoocontent_assets_yoocontent_hybrid_dll_hotupdatedll_app_dll_bytes.rawfile",
+            "FileHash": "aa9e2ae776ac3adb066b65e5e685102a",
+            "FileCRC": "33c20de4",
+            "FileSize": 7931,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/YooContent/HyBrid_Dll/HotUpdateDll/App.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_hybrid_dll_hotupdatedll_framework_dll_bytes.rawfile",
+            "FileName": "yoocontent_assets_yoocontent_hybrid_dll_hotupdatedll_framework_dll_bytes.rawfile",
+            "FileHash": "16ea87b19d58e51f4a4793720b056957",
+            "FileCRC": "2db11731",
+            "FileSize": 23750,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/YooContent/HyBrid_Dll/HotUpdateDll/Framework.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_hybrid_dll_hotupdatedll_logic_dll_bytes.rawfile",
+            "FileName": "yoocontent_assets_yoocontent_hybrid_dll_hotupdatedll_logic_dll_bytes.rawfile",
+            "FileHash": "5bc0fae9e3246ce022c87b89c2dbec09",
+            "FileCRC": "65ae1368",
+            "FileSize": 7669,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/YooContent/HyBrid_Dll/HotUpdateDll/Logic.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_lib_dll_bytes.rawfile",
+            "FileName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_lib_dll_bytes.rawfile",
+            "FileHash": "8a1ea5f0c9dc60ee1b962f51845044b4",
+            "FileCRC": "bc85d681",
+            "FileSize": 7225,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/YooContent/HyBrid_Dll/MetaDataDll/Lib.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_mscorlib_dll_bytes.rawfile",
+            "FileName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_mscorlib_dll_bytes.rawfile",
+            "FileHash": "ee3d7e9ae75ed80a98a7f8d0b3cb8075",
+            "FileCRC": "58201754",
+            "FileSize": 1017736,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/YooContent/HyBrid_Dll/MetaDataDll/mscorlib.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_system_core_dll_bytes.rawfile",
+            "FileName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_system_core_dll_bytes.rawfile",
+            "FileHash": "e5de14ce5cbc8e24b0464cf985862303",
+            "FileCRC": "635021c1",
+            "FileSize": 46328,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/YooContent/HyBrid_Dll/MetaDataDll/System.Core.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_unityengine_coremodule_dll_bytes.rawfile",
+            "FileName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_unityengine_coremodule_dll_bytes.rawfile",
+            "FileHash": "3eb9dbbd2119a3c557b0be803e2b6a91",
+            "FileCRC": "ad62196f",
+            "FileSize": 212637,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/YooContent/HyBrid_Dll/MetaDataDll/UnityEngine.CoreModule.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_yooasset_dll_bytes.rawfile",
+            "FileName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadll_yooasset_dll_bytes.rawfile",
+            "FileHash": "efa9c8ed49560457ef8451a8c5517044",
+            "FileCRC": "a85a18cc",
+            "FileSize": 85925,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/YooContent/HyBrid_Dll/MetaDataDll/YooAsset.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadlltoload_txt.rawfile",
+            "FileName": "yoocontent_assets_yoocontent_hybrid_dll_metadatadlltoload_txt.rawfile",
+            "FileHash": "24d9694e7a30c15809490fe8349007b6",
+            "FileCRC": "bea02416",
+            "FileSize": 1322,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/YooContent/HyBrid_Dll/MetaDataDllToLoad.txt"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_share_assets_unity-logs-viewer-master_reporter_images.bundle",
+            "FileName": "yoocontent_share_assets_unity-logs-viewer-master_reporter_images.bundle",
+            "FileHash": "44df3eaa100c1f747e85b53e8fb137db",
+            "FileCRC": "5c09a1a7",
+            "FileSize": 72345,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/Save.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/scroller_horizental_thumb.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/scroller_vertical_thumb.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/collapse.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/log_icon.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/scroller_horizental_back.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/date.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/error_icon.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/reporterScrollerSkin.guiskin",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/software.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/fps.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/even_log.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/clear.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/scroller_down_arraw.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/scroller_right_arraw.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/copyAll.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/memory.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/search.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/timer_1.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/selected.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/back.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/button_active.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/bar.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/buildFrom.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/scroller_left_arraw.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/clearOnSceneLoaded.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/warning_icon.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/scroller_vertical_back.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/graphicCard.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/info.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/copy.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/ComputerIcon.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/odd_log.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/UnityIcon.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/scroller_up_arraw.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/user.png",
+                "Assets/Unity-Logs-Viewer-master/Reporter/Images/close.png"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_unityshaders.bundle",
+            "FileName": "yoocontent_unityshaders.bundle",
+            "FileHash": "8ea0265a1c08a4935885888b64e28c34",
+            "FileCRC": "fd5e8bb2",
+            "FileSize": 46591,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_share_packages_com_unity_textmeshpro_editor_resources_gizmos.bundle",
+            "FileName": "yoocontent_share_packages_com_unity_textmeshpro_editor_resources_gizmos.bundle",
+            "FileHash": "973c29b2c59403f25697d2ff974a2111",
+            "FileCRC": "b1829743",
+            "FileSize": 5547,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_share_assets_sprite.bundle",
+            "FileName": "yoocontent_share_assets_sprite.bundle",
+            "FileHash": "5a3414a890c29c6511868d85a31c87f0",
+            "FileCRC": "a67ea065",
+            "FileSize": 3665,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/Sprite/image 1.png",
+                "Assets/Sprite/image 4.png",
+                "Assets/Sprite/image 3.png",
+                "Assets/Sprite/image 2.png"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_share_assets_yoocontent_animationui.bundle",
+            "FileName": "yoocontent_share_assets_yoocontent_animationui.bundle",
+            "FileHash": "5013c58ffc35923655471b313ca258d3",
+            "FileCRC": "3121015c",
+            "FileSize": 10117,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/YooContent/AnimationUI/aniTest.controller",
+                "Assets/YooContent/AnimationUI/Close.anim",
+                "Assets/YooContent/AnimationUI/Open.anim"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_share_assets_textmesh_pro_resources_fonts_&_materials.bundle",
+            "FileName": "yoocontent_share_assets_textmesh_pro_resources_fonts_&_materials.bundle",
+            "FileHash": "99a576897e00c868f13b1de4bfa39631",
+            "FileCRC": "5caaa68b",
+            "FileSize": 373510,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "yoocontent_share_assets_textmesh_pro_fonts.bundle",
+                "yoocontent_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset"
+            ]
+        },
+        {
+            "BundleName": "yoocontent_share_assets_textmesh_pro_fonts.bundle",
+            "FileName": "yoocontent_share_assets_textmesh_pro_fonts.bundle",
+            "FileHash": "a60847ce015f3ce643472accc17c616a",
+            "FileCRC": "cbd7dd3b",
+            "FileSize": 227239,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

@@ -1,0 +1,83 @@
+ManifestFileVersion: 0
+CRC: 2413591287
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: yoocontent_scenegroup.bundle
+      Dependencies:
+        Dependency_0: yoocontent_share_assets_unity-logs-viewer-master_reporter_images.bundle
+    Info_1:
+      Name: yoocontent_audiogroup.bundle
+      Dependencies: {}
+    Info_2:
+      Name: yoocontent_fontgroup.bundle
+      Dependencies:
+        Dependency_0: yoocontent_unityshaders.bundle
+    Info_3:
+      Name: yoocontent_prefabgroup.bundle
+      Dependencies:
+        Dependency_0: yoocontent_atlasgroup.bundle
+        Dependency_1: yoocontent_share_assets_sprite.bundle
+        Dependency_2: yoocontent_share_assets_yoocontent_animationui.bundle
+        Dependency_3: yoocontent_share_assets_textmesh_pro_resources_fonts_&_materials.bundle
+    Info_4:
+      Name: yoocontent_atlasgroup.bundle
+      Dependencies: {}
+    Info_5:
+      Name: yoocontent_assets_yoocontent_sprite_common.bundle
+      Dependencies:
+        Dependency_0: yoocontent_share_assets_sprite.bundle
+    Info_6:
+      Name: yoocontent_assets_yoocontent_sprite_main.bundle
+      Dependencies:
+        Dependency_0: yoocontent_share_assets_sprite.bundle
+    Info_7:
+      Name: yoocontent_assets_yoocontent_hybrid_dll_hotupdatedll_app_dll_bytes.rawfile
+      Dependencies: {}
+    Info_8:
+      Name: yoocontent_assets_yoocontent_hybrid_dll_hotupdatedll_framework_dll_bytes.rawfile
+      Dependencies: {}
+    Info_9:
+      Name: yoocontent_assets_yoocontent_hybrid_dll_hotupdatedll_logic_dll_bytes.rawfile
+      Dependencies: {}
+    Info_10:
+      Name: yoocontent_assets_yoocontent_hybrid_dll_metadatadll_lib_dll_bytes.rawfile
+      Dependencies: {}
+    Info_11:
+      Name: yoocontent_assets_yoocontent_hybrid_dll_metadatadll_mscorlib_dll_bytes.rawfile
+      Dependencies: {}
+    Info_12:
+      Name: yoocontent_assets_yoocontent_hybrid_dll_metadatadll_system_core_dll_bytes.rawfile
+      Dependencies: {}
+    Info_13:
+      Name: yoocontent_assets_yoocontent_hybrid_dll_metadatadll_unityengine_coremodule_dll_bytes.rawfile
+      Dependencies: {}
+    Info_14:
+      Name: yoocontent_assets_yoocontent_hybrid_dll_metadatadll_yooasset_dll_bytes.rawfile
+      Dependencies: {}
+    Info_15:
+      Name: yoocontent_assets_yoocontent_hybrid_dll_metadatadlltoload_txt.rawfile
+      Dependencies: {}
+    Info_16:
+      Name: yoocontent_share_assets_unity-logs-viewer-master_reporter_images.bundle
+      Dependencies: {}
+    Info_17:
+      Name: yoocontent_unityshaders.bundle
+      Dependencies: {}
+    Info_18:
+      Name: yoocontent_share_packages_com_unity_textmeshpro_editor_resources_gizmos.bundle
+      Dependencies: {}
+    Info_19:
+      Name: yoocontent_share_assets_sprite.bundle
+      Dependencies: {}
+    Info_20:
+      Name: yoocontent_share_assets_yoocontent_animationui.bundle
+      Dependencies: {}
+    Info_21:
+      Name: yoocontent_share_assets_textmesh_pro_resources_fonts_&_materials.bundle
+      Dependencies:
+        Dependency_0: yoocontent_unityshaders.bundle
+        Dependency_1: yoocontent_share_assets_textmesh_pro_fonts.bundle
+    Info_22:
+      Name: yoocontent_share_assets_textmesh_pro_fonts.bundle
+      Dependencies: {}
